@@ -6,3 +6,5 @@ This logic puzzle was designed by Hans Eendebak in 2003. You can search the web 
 In this project, my group construct a system that sends puzzles over the network and provides a graphical user interface for players to solve them.
 
 We implemented a client/server architecture; we use ParserLib to parse puzzles; and we develop our own abstract data types to represent different aspects of the system.
+
+![a demo for the game](StarBattleDemo.gif)
